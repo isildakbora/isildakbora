@@ -1,8 +1,3 @@
-<!--
-Thanks for visiting. The full personal site lives at https://isildakbora.github.io
-Source: https://github.com/isildakbora/isildakbora.github.io
--->
-
 # Bora Işıldak
 
 **Prof. Dr. — Yıldız Technical University, Faculty of Arts & Science, Department of Physics**
@@ -10,8 +5,6 @@ Source: https://github.com/isildakbora/isildakbora.github.io
 Experimental high-energy physics with the CMS experiment at the LHC; machine learning for calorimetry, jet tagging and event selection; physics-informed methods for dynamical systems.
 
 Deneysel yüksek enerji fiziği (CMS deneyi, LHC); kalorimetri, jet etiketleme ve olay seçimi için makine öğrenmesi; dinamik sistemler için fizik-bilgi ağları.
-
-🌐 **[Kişisel sayfa / Personal site →](https://isildakbora.github.io)**
 
 ---
 
