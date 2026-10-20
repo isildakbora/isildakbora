@@ -17,11 +17,9 @@ Deneysel yüksek enerji fiziği (CMS deneyi, LHC); kalorimetri, jet etiketleme v
 
 ### 🔗 Profiles
 
-| | |
-|---|---|
-| [Google Scholar](https://scholar.google.com/citations?user=hkN36w8AAAAJ) | [ORCID 0000-0002-0283-5234](https://orcid.org/0000-0002-0283-5234) |
-| [INSPIRE-HEP](https://inspirehep.net/authors/1064234) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35221733900) |
-| [YTU AVESIS](https://avesis.yildiz.edu.tr/17406) | [Publons / WoS](https://publons.com/researcher/D-8829-2015) |
+- **Citations** — [Google Scholar](https://scholar.google.com/citations?user=hkN36w8AAAAJ) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35221733900) · [Publons / WoS](https://publons.com/researcher/D-8829-2015)
+- **Identifiers** — [ORCID 0000-0002-0283-5234](https://orcid.org/0000-0002-0283-5234) · [INSPIRE-HEP](https://inspirehep.net/authors/1064234)
+- **Affiliation** — [YTU AVESIS](https://avesis.yildiz.edu.tr/17406)
 
 ### 📚 Selected publications
 
